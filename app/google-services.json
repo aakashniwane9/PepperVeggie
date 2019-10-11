@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70570712943",
+    "firebase_url": "https://pepperveggie.firebaseio.com",
+    "project_id": "pepperveggie",
+    "storage_bucket": "pepperveggie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70570712943:android:e2efd159121cf18ec6929a",
+        "android_client_info": {
+          "package_name": "com.codeencounter.pepperveggie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70570712943-csndjt3sduhku1b5up726tpel4vvrro4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeencounter.pepperveggie",
+            "certificate_hash": "75815278b1122bff7823684aa02fbac1c01735ab"
+          }
+        },
+        {
+          "client_id": "70570712943-ufr29jfhjarf1kc9e3bj1lhld6t40863.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupYnu7bEvj-2sJjOXkzrTEGjSX1tlhwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70570712943-ufr29jfhjarf1kc9e3bj1lhld6t40863.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
